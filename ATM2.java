@@ -58,7 +58,7 @@ class ATM2 extends dbwrite
     public void input()
     {
         System.out.println("==================================================================");
-        System.out.print("Enter Your Account Number Provided To You (only 1,2,3,4,5,6,7,8,9,10) ");
+        System.out.print("Enter Your Account Number Provided To You (only 1,2,3,4,5,6,7,8,9,0) ");
         b= a.nextInt();
         System.out.println("==================================================================");
 
