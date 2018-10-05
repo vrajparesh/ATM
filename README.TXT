@@ -1,5 +1,5 @@
 
-PROJECT TITLE :  ATM [Automatic Teller Machine]
+PROJECT TITLE :  ATM [Automatic Telling Machine]
 
 PURPOSE OF PROJECT:  BOARD PROJECT
 
